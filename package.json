@@ -5,9 +5,11 @@
   "description": "รับทำเว็บไซต์ ราคาถูก เริ่มต้นเพียง 2,290 ออกแบบเว็บไซต์ใหม่ ดีไซน์เรียบง่าย น่าเชื่อถือ",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "รับทำเว็บ",
+    "รับทำเว็บไซต์"
   ],
-  "repository": "https://github.com/atom/webday-theme",
+  "repository": "https://github.com/hellowebday/webday-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
